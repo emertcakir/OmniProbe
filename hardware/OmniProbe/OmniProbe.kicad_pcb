@@ -748,7 +748,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "175b48e0-29dc-494b-8270-c530aeb0536c")
-		(at 142.583372 90.537086 180)
+		(at 138.617245 90.480817 180)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R3"
@@ -2491,7 +2491,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "2cdff3ee-7927-49d8-81f0-7e57b8a04f34")
-		(at 145.219904 88.445353 -90)
+		(at 141.253777 88.389084 -90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C18"
@@ -2649,13 +2649,13 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "33412f5d-628b-43f3-b0c7-46820a91bc4e")
-		(at 133.46 68.5 90)
+		(at 165.964168 87.676058 90)
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "J6"
 			(at 0 -2.38 90)
 			(layer "F.SilkS")
-			(uuid "024881fc-9be5-4c26-ab24-2b3a246ae388")
+			(uuid "080a4421-3310-462d-9a7c-72b9d7c8b699")
 			(effects
 				(font
 					(size 1 1)
@@ -2666,7 +2666,7 @@
 		(property "Value" "Conn_01x03_Socket"
 			(at 0 7.46 90)
 			(layer "F.Fab")
-			(uuid "f5418b5f-b132-47a8-bf79-d9819750121b")
+			(uuid "ad50e494-3fd1-4472-9b86-508be42e2f10")
 			(effects
 				(font
 					(size 1 1)
@@ -2678,7 +2678,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ebf5970a-6f24-4cbb-8924-8e646e9ece22")
+			(uuid "2877e6f4-de83-4b29-95c3-065229c2d2dd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2689,7 +2689,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "24964d11-18d8-4dd5-afc9-2e273c10f6a3")
+			(uuid "29cf847a-9364-48b3-a298-95bd7d458d24")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3217,7 +3217,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "36881020-3e34-4609-897b-6acdf2cc1ba2")
-		(at 146.691834 88.445353 -90)
+		(at 142.725707 88.389084 -90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C21"
@@ -4994,7 +4994,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "45105f4c-100a-45c0-92a5-a270c853268f")
-		(at 139.199362 88.397967 -90)
+		(at 135.233235 88.341698 -90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C3"
@@ -5468,13 +5468,13 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "558386ec-16d3-4483-a29e-f31485200e44")
-		(at 127.731383 69 -90)
+		(at 162.411788 87.676058 -90)
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "J7"
 			(at 0 -2.38 90)
 			(layer "F.SilkS")
-			(uuid "f093a8c5-dced-4a50-b9ea-6052ed450a28")
+			(uuid "5742b8e1-7a99-4553-a50e-5f2b9211bf72")
 			(effects
 				(font
 					(size 1 1)
@@ -5485,7 +5485,7 @@
 		(property "Value" "Conn_01x03_Socket"
 			(at 0 7.46 90)
 			(layer "F.Fab")
-			(uuid "15b0383f-48a3-48e0-a2f1-62f6c6b789d5")
+			(uuid "274bd0f0-267f-452b-a785-ec4b1ea6d458")
 			(effects
 				(font
 					(size 1 1)
@@ -5497,7 +5497,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "959debbb-2fc8-4397-860d-ec2b41e9e532")
+			(uuid "06913c87-7c22-4505-ae64-8d8994233569")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5508,7 +5508,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3a0387b5-9091-4f30-8abc-dffad60d8eec")
+			(uuid "c87d27fc-80af-474c-a9f3-fd2ce89d5dfc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5720,7 +5720,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "5679e11a-0e6c-4bc2-b6c1-53fc820e5c31")
-		(at 134.752996 88.398799 -90)
+		(at 130.786869 88.34253 -90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C4"
@@ -6553,7 +6553,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "679668ba-43a8-4fce-9b71-a6156585d060")
-		(at 136.257634 88.398799 -90)
+		(at 132.291507 88.34253 -90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C1"
@@ -6869,7 +6869,7 @@
 	(footprint "PCM_SparkFun-Semiconductor-Standard:SOT23-5"
 		(layer "F.Cu")
 		(uuid "899782bf-f80b-47a9-96f8-bb725fc99ea5")
-		(at 142.317556 88.364506)
+		(at 138.351429 88.308237)
 		(tags "SparkFun")
 		(property "Reference" "U3"
 			(at 0 -2 0)
@@ -9445,7 +9445,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "b2f30ab5-864b-4054-8286-d5529aecec43")
-		(at 137.731716 88.397868 -90)
+		(at 133.765589 88.341599 -90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C2"
@@ -11370,7 +11370,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "e3bffa21-db64-4924-ac1c-da20bb99ffa0")
-		(at 119.08 69 -90)
+		(at 115.31 66.75 -90)
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
 		(property "Reference" "J10"
@@ -12265,7 +12265,7 @@
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
 		(uuid "f4b9044a-2ddd-4cf7-9c5a-fa4533a28394")
-		(at 132.747867 89.113136 -90)
+		(at 128.894458 89.056403 -90)
 		(descr "D_SOD-123F")
 		(tags "D_SOD-123F")
 		(property "Reference" "D3"
@@ -12713,7 +12713,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "fb3b7103-d1da-45de-a918-7e0b392f5537")
-		(at 100.274856 68.99389 90)
+		(at 146.158556 87.669053 90)
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
 		(property "Reference" "J9"
@@ -13492,134 +13492,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "76c92331-b230-455e-9dfd-2af3c252ac14")
-	)
-	(segment
-		(start 130.867812 93.460161)
-		(end 130.867812 92.172055)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "Net-(F1-Pad2)")
-		(uuid "0ebfd193-d7b6-44bf-9b41-a1e0abedcad5")
-	)
-	(segment
-		(start 130.867812 92.172055)
-		(end 130.837463 92.141706)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "Net-(F1-Pad2)")
-		(uuid "b9614e68-a6e6-4b98-b665-3657498db1b5")
-	)
-	(segment
-		(start 130.837463 90.566706)
-		(end 132.694297 90.566706)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "Net-(D3-A)")
-		(uuid "07c29f86-cce9-4319-8019-87837425d521")
-	)
-	(segment
-		(start 132.694297 90.566706)
-		(end 132.747867 90.513136)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "Net-(D3-A)")
-		(uuid "1abb83e5-740b-4d5c-9a29-d0b4e0c93da7")
-	)
-	(segment
-		(start 144.964057 87.414506)
-		(end 145.219904 87.670353)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "3V3")
-		(uuid "66c7bd96-8e5d-4bd1-94cf-34809aa0dc00")
-	)
-	(segment
-		(start 143.617656 87.414506)
-		(end 144.964057 87.414506)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "3V3")
-		(uuid "b8f4af59-3d25-4665-8f05-38272856e719")
-	)
-	(segment
-		(start 145.219904 87.670353)
-		(end 146.691834 87.670353)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "3V3")
-		(uuid "d46defe8-9a18-4057-98ba-357ca95093b5")
-	)
-	(segment
-		(start 139.199263 87.622868)
-		(end 139.199362 87.622967)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "VBUS")
-		(uuid "1f8c1839-c446-4563-9ae5-c6715dd85023")
-	)
-	(segment
-		(start 132.747867 87.713136)
-		(end 134.663659 87.713136)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "VBUS")
-		(uuid "5ee65359-8329-447a-9ccf-7c0ebdf30662")
-	)
-	(segment
-		(start 136.257634 87.623799)
-		(end 137.730785 87.623799)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "VBUS")
-		(uuid "651b2981-6ed6-4bc5-8737-f7fc48a626c0")
-	)
-	(segment
-		(start 134.663659 87.713136)
-		(end 134.752996 87.623799)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "VBUS")
-		(uuid "b2406cda-3d1b-401c-bf3f-a51f06e6b686")
-	)
-	(segment
-		(start 137.731716 87.622868)
-		(end 139.199263 87.622868)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "VBUS")
-		(uuid "bf463761-e9a0-459c-bb57-97fcd370573d")
-	)
-	(segment
-		(start 139.407823 87.414506)
-		(end 139.199362 87.622967)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "VBUS")
-		(uuid "c29d076a-8715-4ae1-937b-593db44adee7")
-	)
-	(segment
-		(start 141.017456 87.414506)
-		(end 139.407823 87.414506)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "VBUS")
-		(uuid "d212788a-3a42-414c-b179-6b2529424b44")
-	)
-	(segment
-		(start 134.752996 87.623799)
-		(end 136.257634 87.623799)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "VBUS")
-		(uuid "d30f226a-cc0b-4a1d-9105-ee92a2d10bb2")
-	)
-	(segment
-		(start 137.730785 87.623799)
-		(end 137.731716 87.622868)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "VBUS")
-		(uuid "d628bb8d-a516-4e33-970e-2873ffe5e661")
 	)
 	(segment
 		(start 147.76198 108.196294)
