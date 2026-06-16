@@ -200,6 +200,7 @@
         0.22,
         0.25,
         0.3,
+        0.33,
         0.4,
         0.5
       ],
@@ -694,7 +695,7 @@
         "uuid": "43c147f7-eec0-4b10-97ab-7259c6e0ef0a"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR45-47",
     "variants": []
   },
   "sheets": [
